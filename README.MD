@@ -59,3 +59,38 @@ Codigo en JSON
   }
 ]
 ```
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Luisa | arr | 1235666 |
+| Rocio | Car| 8555 |
+
+# Citas
+
+ESto es un texto referente a una cita que pondremos:
+> Esto es una cita
+
+Estos es otro texto
+>Esto es otra cita
+
+# Lineas divisoras
+
+Esto es un texto que será dividido por ---
+
+---
+Esto es otro texto divido ***
+
+***
+
+Esto es otro texto divido ___
+
+___
+
+
+# Saltos de Linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo 
+- Lista
