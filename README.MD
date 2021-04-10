@@ -6,4 +6,15 @@
 ###### Cabecera H6
 
 
-sPY UN README.
+Underline 1
+--------------
+
+Underline 2
+===============
+
+- Letra *italica* primera forma
+- Letra _italica_ segunda forma
+- formato **bold** primera forma
+- formato __bold__ segunda forma
+- formato ~~tachado~~ 
+- Aqui podemos usar formato *italico* pero tambien **bold** y ~~tachado~~
