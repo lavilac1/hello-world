@@ -38,3 +38,24 @@ Links
 - <a href="http://www.google.com">Link en html</a>
 - [Esto es un link de Markdown](http://www.google.com")
 - [Esto es un link al index](index.html)
+
+Imagenes
+===============
+![Logo github](https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
